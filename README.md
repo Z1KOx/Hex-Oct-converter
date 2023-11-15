@@ -1,2 +1,2 @@
 # Hex-Oct-converter
-Converts your decimals in hexadecimal or octal
+Converts your decimal in hexadecimal or octal
